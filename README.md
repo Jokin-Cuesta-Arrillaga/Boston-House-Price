@@ -6,6 +6,6 @@ A lo largo de esta práctica veremos como aplicar diferentes técnicas para la c
   <li>Análisis de los datos
   <br>2.1 Análisis estadístico básico
   <br>2.2 Análisis exploratorio de los datos
-  <li>Reducción de la dimensionalidad</li>
+  <li>Reducción de la dimensionalidad: PCA y T-SNE</li>
   <li>Entrenamiento y test</li>
 </ol>
